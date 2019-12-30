@@ -1,0 +1,32 @@
+﻿{
+	"version": 1577705370,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/throwninjastar-sheet0.png",
+		"images/ninja-sheet0.png",
+		"images/ninja-sheet1.png",
+		"images/smoke-sheet0.png",
+		"images/ninjastar-sheet0.png",
+		"images/ninjastar-sheet1.png",
+		"images/spawnninjastar-sheet0.png",
+		"images/hudbest-sheet0.png",
+		"images/hudlife-sheet0.png",
+		"images/hudscore-sheet0.png",
+		"images/sprite-sheet0.png",
+		"media/dead.m4a",
+		"media/dead.ogg",
+		"media/sword.m4a",
+		"media/sword.ogg",
+		"media/ishikari_lore.m4a",
+		"media/ishikari_lore.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
